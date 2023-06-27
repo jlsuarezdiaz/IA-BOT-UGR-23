@@ -23,6 +23,6 @@ El bot está diseñado para ser ejecutado en un cluster que utilice `slurm` como
 
 ## Agradecimientos
 
-A @rbnuria, la mejor compañera de prácticas que se puede tener, y al resto de profesores de la asignatura por su colaboración.
+A [@rbnuria](https://github.com/rbnuria), la mejor compañera de prácticas que se puede tener, y al resto de profesores de la asignatura por su colaboración.
 
 Y, por supuesto, a mis alumnos y alumnas, que me han dado la ilusión y la motivación para hacer este proyecto. Gracias por este año.
